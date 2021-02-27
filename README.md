@@ -1,27 +1,17 @@
-# 02-Space-Shooter
-2/26/2021
-Project 02 for MSCH-C220
-A basic 2d arcade shooter built by me using the Godot game engine
+# Exercise-02d-Godot-Template
+Exercise for MSCH-C220, 15 February 2021
+
+A Godot Project Template, for use in future projects.
 
 ## Implementation
 Built using Godot 3.2.3
 Includes WASD mappings (up, left, down, right) and escape to quit.
 
 ## References
-Assets from:
-
-Kenny
-
-https://kenney.nl/assets/space-shooter-reduxhttps://kenney.nl/assets/space-shooter-extension
-
-
-Wikimedia
-
-https://upload.wikimedia.org/wikipedia/commons/6/6e/Veil_Nebula_-_NGC6960.jpg
+None
 
 ## Future Development
-Unsure
+None
 
 ## Created by 
 Zachary Johnson
-```
