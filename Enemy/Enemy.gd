@@ -3,7 +3,7 @@ extends KinematicBody2D
 onready var Enemy = load("res://path_to_scene_here")
 onready var Game = get_node("/root/path_to_node_here")
 
-var Enemy_Bullet = load ("res://Enemy_Bullet/Enemy.tscn")
+var Enemy_Bullet = load("res://Enemy_Bullet/Enemy.tscn")
 onready var Bullets = get_node("/root/Game/Bullets")
 var speed = 2
 var ready_to_move = true

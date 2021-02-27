@@ -20,6 +20,7 @@ polygon = PoolVector2Array( 31, -37, 34.3, -37, 42, -34.4, 42, -32.8, 46, -28.8,
 autostart = true
 
 [node name="Move" type="Timer" parent="."]
+autostart = true
 
 [node name="Tween" type="Tween" parent="."]
 [connection signal="timeout" from="Shoot" to="." method="_on_Shoot_timeout"]
