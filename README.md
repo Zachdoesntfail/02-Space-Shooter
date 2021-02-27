@@ -1,6 +1,8 @@
 # 02-Space-Shooter
+2/26/2021
 Project 02 for MSCH-C220
 A basic 2d arcade shooter built by me using the Godot game engine
+
 ## Implementation
 Built using Godot 3.2.3
 Includes WASD mappings (up, left, down, right) and escape to quit.
